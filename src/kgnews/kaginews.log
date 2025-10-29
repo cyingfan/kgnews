@@ -1,0 +1,15 @@
+2025-10-29 22:42:12,458 - kgnews.main - INFO - Starting Kagi News Reader
+2025-10-29 22:42:12,490 - kgnews.app - INFO - Application starting
+2025-10-29 22:42:12,490 - kgnews.config.manager - INFO - Config file not found at config.json, using defaults
+2025-10-29 22:42:12,490 - kgnews.app - INFO - Applied theme: textual-dark
+2025-10-29 22:42:12,511 - kgnews.config.manager - INFO - Config file not found at config.json, using defaults
+2025-10-29 22:42:35,607 - kgnews.main - INFO - Starting Kagi News Reader
+2025-10-29 22:42:35,638 - kgnews.app - INFO - Application starting
+2025-10-29 22:42:35,638 - kgnews.config.manager - INFO - Config file not found at config.json, using defaults
+2025-10-29 22:42:35,638 - kgnews.app - INFO - Applied theme: textual-dark
+2025-10-29 22:42:35,654 - kgnews.config.manager - INFO - Config file not found at config.json, using defaults
+2025-10-29 22:43:07,340 - kgnews.main - INFO - Starting Kagi News Reader
+2025-10-29 22:43:07,365 - kgnews.app - INFO - Application starting
+2025-10-29 22:43:07,365 - kgnews.config.manager - INFO - Config file not found at config.json, using defaults
+2025-10-29 22:43:07,365 - kgnews.app - INFO - Applied theme: textual-dark
+2025-10-29 22:43:07,387 - kgnews.config.manager - INFO - Config file not found at config.json, using defaults
